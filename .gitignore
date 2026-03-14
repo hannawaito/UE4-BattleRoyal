@@ -1,0 +1,33 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+# Build files
+Binaries/
+Build/
+Intermediate/
+
+# Unreal cache
+DerivedDataCache/
+
+# Saved files
+Saved/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider
+*.sln.iml
+
+# Visual Studio files
+*.VC.db
+*.VC.opendb
+
+# Temporary files
+*.tmp
+*.temp
