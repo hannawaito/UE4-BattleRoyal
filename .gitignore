@@ -31,3 +31,12 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Unreal generated project files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Mac / Linux
+*.dSYM
