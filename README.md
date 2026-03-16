@@ -1,6 +1,7 @@
 # UE4 Battle Royale Tutorial Project
 
-Practice project following a Battle Royale game development tutorial using Unreal Engine 4.18.3.
+This project is based on a Battle Royale game development tutorial using Unreal Engine 4.18.3.
+While following the tutorial as a foundation, I also incorporate ideas and gameplay elements inspired by my own experience playing Battle Royale games such as PUBG. Some systems and mechanics are modified or extended beyond the tutorial to better reflect practical gameplay scenarios and personal design choices.
 
 ## Engine
 
