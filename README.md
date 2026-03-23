@@ -16,3 +16,4 @@ This project is created for learning Unreal Engine gameplay systems and mechanic
 - Learn Unreal Engine development workflow
 - Practice Blueprint-based gameplay implementation
 - Understand core Battle Royale mechanics
+- Improve problem-solving skills through game system design
