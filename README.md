@@ -18,4 +18,4 @@ This project is created for learning Unreal Engine gameplay systems and mechanic
 - Understand core Battle Royal mechanics
 - Improve problem-solving skills through game system design
 - To gain hands-on experience with Unreal Engine tools and environment setup (textures, foliage, meshes)
-- Strengthen C++ proficiency for game development through practical implementation
+- Strengthen C++ proficiency for game development through practical implementation.
